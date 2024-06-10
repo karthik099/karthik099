@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @karthik099
 - 👀 I’m interested in ... UI development
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... karthik099@gmail.com
 
