@@ -22,7 +22,7 @@ Technologies & Tools, I love working with
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e2324a94a870639af6db7e4c131e5efd516cafec165504a57862765b42e69bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d565320436f64652d3139386264333f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"><img alt="vscode" src="https://camo.githubusercontent.com/9e2324a94a870639af6db7e4c131e5efd516cafec165504a57862765b42e69bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d565320436f64652d3139386264333f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-VS Code-198bd3?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
