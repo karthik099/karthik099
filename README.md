@@ -6,6 +6,7 @@
 
 Technologies & Tools, I love working with
 
+<!--
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3014a30024fc752b3da689737705f9067b3a3785f8fdcd12f608dc667bdce8c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45534c696e742d3439333062643f7374796c653d666c61742d737175617265266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465"><img alt="ESLINT" src="https://camo.githubusercontent.com/3014a30024fc752b3da689737705f9067b3a3785f8fdcd12f608dc667bdce8c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45534c696e742d3439333062643f7374796c653d666c61742d737175617265266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-ESLint-4930bd?style=flat-square&amp;logo=eslint&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/de503da3cae2df77d266eba6590f7fbb37da512bb107ee23ede59d0df7f67258/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726574746965722d3165326233333f7374796c653d666c61742d737175617265266c6f676f3d7072657474696572266c6f676f436f6c6f723d7768697465"><img alt="Prettier" src="https://camo.githubusercontent.com/de503da3cae2df77d266eba6590f7fbb37da512bb107ee23ede59d0df7f67258/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726574746965722d3165326233333f7374796c653d666c61742d737175617265266c6f676f3d7072657474696572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Prettier-1e2b33?style=flat-square&amp;logo=prettier&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -21,6 +22,22 @@ Technologies & Tools, I love working with
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1fd2aacb73a7adf08ce72b0874d4e69812296d555bd13f4e98fab5d29d21a5ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465"><img alt="npm" src="https://camo.githubusercontent.com/1fd2aacb73a7adf08ce72b0874d4e69812296d555bd13f4e98fab5d29d21a5ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e2324a94a870639af6db7e4c131e5efd516cafec165504a57862765b42e69bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d565320436f64652d3139386264333f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"><img alt="vscode" src="https://camo.githubusercontent.com/9e2324a94a870639af6db7e4c131e5efd516cafec165504a57862765b42e69bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d565320436f64652d3139386264333f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-VS Code-198bd3?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
+-->
+
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
